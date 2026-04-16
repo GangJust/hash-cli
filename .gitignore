@@ -1,0 +1,5 @@
+.gradle/
+build/
+.tools/
+.tmp-smoke/
+.omx
